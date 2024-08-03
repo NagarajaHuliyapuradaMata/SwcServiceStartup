@@ -4,6 +4,6 @@ int main(
       int   argc
    ,  char* argv[]
 ){
-   std::cout << "Hello bazel!" << std::endl;
+   std::cout << "Hello Docker!" << std::endl;
    return 0;
 }
